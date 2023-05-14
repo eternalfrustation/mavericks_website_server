@@ -1,0 +1,3 @@
+[submodule "mavericks_website_frontend"]
+	path = static
+	url = https://github.com/eternalfrustation/mavericks_website_frontend
